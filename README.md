@@ -3,10 +3,9 @@ This repository contains the download link and usage instructions for the new da
 
 ## Download
 
-The dataset will be available for download soon. Stay tuned!
-<!-- You can download the dataset from the following link:
+You can download the dataset from the following link:
+[BaiDuYun](https://pan.baidu.com/s/1hy44z_om609jIhXjRxXCug?pwd=8yy3) (8yy3)
 
-[Download Dataset](http://example.com/download-link) -->
 
 ## Description
 
