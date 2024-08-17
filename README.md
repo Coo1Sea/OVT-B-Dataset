@@ -44,7 +44,10 @@ Instructions on how to use the dataset:
 
 ## Data sample illustration
 
-
+![Sample 1](assets/ovtb_frame.png)
+![Sample 2](assets/ovtb_frame2.png)
+![Sample 3](assets/ovtb_frame3.png)
+![Sample 4](assets/ovtb_frame4.png)
 
 ## Citation
 
