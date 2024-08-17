@@ -21,7 +21,7 @@ Instructions on how to use the dataset:
 4. Modify the ```data_root``` in the configs to the path where the OVT-B folder is located. Change ```ann_file``` to the path of ovtb_ann.json, ```img_prefix``` to data_root+'OVT-B', and ```prompt_path``` to the path of ovtb_class.pth.
 5. Then test/evaluate by TAO-type/COCO-type dataset eval tools/codes.
 
-## Organization of dataset
+## Organization
 
 ```
 ├── OVT-B
