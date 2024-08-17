@@ -44,10 +44,12 @@ Instructions on how to use the dataset:
 
 ## Data sample illustration
 
-![Sample 1](assets/ovtb_frame.png)
-![Sample 2](assets/ovtb_frame2.png)
-![Sample 3](assets/ovtb_frame3.png)
-![Sample 4](assets/ovtb_frame4.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/ovtb_frame.png" alt="Sample 1" style="width: 49%;">
+    <img src="assets/ovtb_frame2.png" alt="Sample 2" style="width: 49%;">
+    <img src="assets/ovtb_frame3.png" alt="Sample 3" style="width: 49%;"> 
+    <img src="assets/ovtb_frame4.png" alt="Sample 4" style="width: 49%;">
+</div>
 
 ## Citation
 
