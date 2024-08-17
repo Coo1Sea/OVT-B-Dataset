@@ -19,12 +19,16 @@ Instructions on how to use the dataset:
 2. Extract the files.
 3. Follow the instructions.
 
+## Organization of dataset
+
+
+## Data sample illustration
+
 ## Citation
 
 If you use this dataset in your research, please cite it as follows:
 <!-- ```
 @dataset{OVT-B_2024,
-author = {Haiji Liang and Ruize Han},
 title = {OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking},
 year = {2024}
 }
