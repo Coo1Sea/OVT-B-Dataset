@@ -4,7 +4,8 @@ This repository contains the download link and usage instructions for the new da
 ## Download
 
 You can download the dataset from the following link:
-[BaiDuYun](https://pan.baidu.com/s/1hy44z_om609jIhXjRxXCug?pwd=8yy3) (8yy3)
+[BaiDuYun](https://pan.baidu.com/s/1hy44z_om609jIhXjRxXCug?pwd=8yy3) (8yy3) and 
+[GoogleDrive](https://drive.google.com/drive/folders/1Qfmb6tEF92I2k84NgrkjEbOKnFlsrTVZ?usp=drive_link).
 
 
 ## Description
