@@ -1,0 +1,13 @@
+lvis
+motmetrics
+pycocotools
+seaborn
+tqdm
+h5py
+seaborn
+timm
+h5py
+einops
+ftfy
+Regex
+numpy==1.21.1
