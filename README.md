@@ -70,3 +70,4 @@ year = {2024}
 - Thanks [TETA](https://github.com/SysCV/tet) for providing the evaluation code.
 - Thanks [DetPro](https://github.com/dyabel/detpro) for providing the pytorch reimplementation of VilD.
 - Thanks [OVTrack](https://github.com/SysCV/OVTrack) for providing the baseline of OVMOT.
+- Thanks [MMTracking](https://github.com/open-mmlab/mmtracking) for providing the code of OC-SORT, ByteTrack and StrongSORT.
