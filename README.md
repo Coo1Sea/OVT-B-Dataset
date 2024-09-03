@@ -1,6 +1,8 @@
 # OVT-B-Dataset
 This repository contains the download link and usage instructions for the new dataset.
 
+News! [02/09/24] We have uploaded the source code of several trackers implemented on our benchmark.
+
 ## Download
 
 You can download the dataset from the following link:
