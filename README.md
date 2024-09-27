@@ -3,7 +3,8 @@ This repository contains the download link and usage instructions for the new da
 
 
 ## News
-🔥 [26/09/24] We are pleased to announce that our paper has been accepted to NeurIPS 2024 Datasets and Benchmarks Track.
+🔥 [26/09/24] We are pleased to announce that our paper has been accepted to NeurIPS 2024 Datasets and Benchmarks Track.  
+
 🔥 [02/09/24] We have uploaded the source code of several trackers implemented on our benchmark.
 
 
