@@ -67,7 +67,7 @@ For detailed information on the baseline method, please refer to the [OVTrack](h
 
 If you use this dataset in your research, please cite it as follows:
 ```
-@article{2024ovtb,
+@article{haiji2024ovtb,
   title={OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking},
   author={Liang, haiji and Han, Ruize},
   journal={arXiv preprint arXiv:2410.17534},
